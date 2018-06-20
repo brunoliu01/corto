@@ -114,7 +114,15 @@
 .logo-cont {
 	width: 50%;
 	height: 50vh;
-	background: red;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.img-logo {
+	width: 200px;
+	height: 200px;
+
 }
 
 .container-text-quienes-somos {
